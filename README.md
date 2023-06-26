@@ -11,7 +11,6 @@ This project is a web scraping tool that collects information about the popular 
 - [Usage](#usage)
 - [Output](#output)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
