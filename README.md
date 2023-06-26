@@ -42,8 +42,7 @@ This will install the necessary libraries, including Selenium and pandas.
 ```python
 url = 'https://www.youtube.com/@MindfulScience/videos'
 
-python youtube_scraper.py
-
+"python youtube_scraper.py"
 
 ## Output
 The tool generates a CSV file that contains the following information for each popular video:
