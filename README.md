@@ -15,7 +15,10 @@ For example:
 
 url = https://www.youtube.com/@MindfulScience/videos
 
+3. Run the script by executing the following command:
+
 "python youtube_scraper.py" 
+
 
 ## Output
 
